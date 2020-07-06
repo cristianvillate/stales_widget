@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     );
     return new Scaffold( 
       appBar: new AppBar(
-        title: new Text("Stateless Widget"),
+        title: new Text("app prueda con staless widget"),
       ),
       body: new Container(
         child: Center(
